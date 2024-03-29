@@ -19,3 +19,6 @@ python3 main.py
 ```
 
 ## Demonstration
+
+https://github.com/shantanuparabumd/Brownian_Motion/assets/112659509/14678893-401d-4814-907c-14e0bd4bbaf9
+
